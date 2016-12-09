@@ -1,0 +1,18 @@
+{
+  "name": "stkit",
+  "version": "1.0.3",
+  "description": "Solution for JS-Task2-3",
+  "main": "task2-3.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ManWithShotgun/JS-Task2-3.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ilya Burym",
+  "license": "ISC"
+}
